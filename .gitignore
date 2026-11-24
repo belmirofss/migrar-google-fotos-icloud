@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+
+# Saidas da migracao: contem fotos e caminhos pessoais
+saida/
+para_enviar/
+miniaturas/
+*.sqlite
+manifesto*.json
+analise.json
+relatorio.*
+revisar.csv
+erros_preparo.csv
